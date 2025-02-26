@@ -25,8 +25,8 @@
     "env": {
         "APP_ENV": "production",
         "APP_DEBUG": "true",
-        "APP_URL": "https://XXXXXXX.vercel.app",
-        "APP_KEY": "XXXXXXXXXXXXX",
+        "APP_URL": "https://eleme-proyect.vercel.app",
+        "APP_KEY": "base64:LaGE7/TxJu+Y0+xgVNFd4P0eMM9PGn8tH0lhPgf28d4=",
         "APP_CONFIG_CACHE": "/tmp/config.php",
         "APP_EVENTS_CACHE": "/tmp/events.php",
         "APP_PACKAGES_CACHE": "/tmp/packages.php",
